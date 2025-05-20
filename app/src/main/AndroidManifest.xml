@@ -15,15 +15,11 @@
         <activity
             android:name=".CadastroFreelancer"
             android:exported="false" />
-        <activity
-            android:name=".LoginFreelancer"
-            android:exported="false" />
+
         <activity
             android:name=".TelaFreelancer"
             android:exported="false" />
-        <activity
-            android:name=".CadastrarProdutos"
-            android:exported="false" />
+
         <activity
             android:name=".Login"
             android:exported="false" />
