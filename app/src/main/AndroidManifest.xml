@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Freelancer"
         tools:targetApi="31">
         <activity
+            android:name=".CadastroFreelancer"
+            android:exported="false" />
+        <activity
             android:name=".LoginFreelancer"
             android:exported="false" />
         <activity
