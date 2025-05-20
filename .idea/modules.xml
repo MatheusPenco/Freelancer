@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Perei.freelancer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Perei.freelancer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Perei.freelancer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Perei.freelancer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Perei.freelancer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Perei.freelancer.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/freelancer.iml" filepath="$PROJECT_DIR$/.idea/modules/freelancer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/freelancer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/freelancer.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/freelancer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/freelancer.app.iml" />
