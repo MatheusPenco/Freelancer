@@ -13,6 +13,18 @@
         android:theme="@style/Theme.Freelancer"
         tools:targetApi="31">
         <activity
+            android:name=".LoginFreelancer"
+            android:exported="false" />
+        <activity
+            android:name=".TelaFreelancer"
+            android:exported="false" />
+        <activity
+            android:name=".CadastrarProdutos"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

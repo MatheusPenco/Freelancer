@@ -1,4 +1,4 @@
 package br.edu.fatecpg.com.freelancer
 
-class Cadastro {
+class LoginFree {
 }
