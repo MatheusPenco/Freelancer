@@ -3,10 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/freelancer.iml" filepath="$PROJECT_DIR$/.idea/modules/freelancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/freelancer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/freelancer.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/freelancer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/freelancer.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/freelancer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/freelancer.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/freelancer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/freelancer.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/freelancer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/freelancer.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/freelancer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/freelancer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/freelancer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/freelancer.unitTest.iml" />
     </modules>
   </component>
 </project>

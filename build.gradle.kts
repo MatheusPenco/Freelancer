@@ -1,15 +1,11 @@
 plugins {
-
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    alias(libs.plugins.google.gms.google.services)
-
-
 }
 
 android {
     namespace = "br.edu.fatecpg.com.freelancer"
-    compileSdk = 35
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "br.edu.fatecpg.com.freelancer"
@@ -52,4 +48,13 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+}
+
+buildscript {
+    repositories {
+        google()
+    }
+    dependencies {
+        classpath("com.google.gms:google-services:4.4.1")  // Use a versão mais recente
+    }
 }
