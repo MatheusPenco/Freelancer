@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239463679929",
+    "project_id": "freelancerale-323d3",
+    "storage_bucket": "freelancerale-323d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239463679929:android:c662f8ea3e3962aa651868",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.com.freelancer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBziJ3yiu9y8-mSdRZeXN2MJ0nGPSek27I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239463679929:android:b5c34b99257ac39b651868",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.freelancerAle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBziJ3yiu9y8-mSdRZeXN2MJ0nGPSek27I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
